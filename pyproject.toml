@@ -1,0 +1,11 @@
+[project]
+name = "cloud-mcp-ai-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cerebras>=0.0.1",
+    "cerebras-cloud-sdk>=1.50.1",
+    "mcp>=1.16.0",
+]

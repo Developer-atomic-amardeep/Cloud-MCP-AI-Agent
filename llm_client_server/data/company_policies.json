@@ -1,0 +1,22 @@
+[
+      {
+        "question": "What is the company's remote work policy?",
+        "answer": "Employees may work remotely up to 3 days per week with manager approval. All remote work must be pre-approved and employees must maintain the same productivity standards as in-office work. Core collaboration hours of 10 AM - 3 PM must be observed regardless of location."
+      },
+      {
+        "question": "How much paid time off (PTO) do employees receive annually?",
+        "answer": "New employees receive 15 days of PTO in their first year, increasing to 20 days after 2 years of service, and 25 days after 5 years. PTO must be requested at least 2 weeks in advance for periods longer than 3 consecutive days. Unused PTO up to 5 days may be carried over to the following year."
+      },
+      {
+        "question": "What is the dress code policy?",
+        "answer": "We maintain a business casual dress code. This includes collared shirts, dress pants or khakis, and closed-toe shoes. Jeans are permitted on Fridays. Tank tops, flip-flops, shorts, and clothing with inappropriate graphics or text are not permitted. Client-facing employees may need to dress more formally when meeting with clients."
+      },
+      {
+        "question": "What are the guidelines for using company equipment and technology?",
+        "answer": "Company equipment is for business use only. Personal use should be minimal and not interfere with work duties. Employees are responsible for the care and security of assigned equipment. Installation of unauthorized software is prohibited. All internet activity may be monitored, and inappropriate websites are blocked. Equipment must be returned upon termination."
+      },
+      {
+        "question": "What is the policy on workplace harassment and discrimination?",
+        "answer": "The company maintains a zero-tolerance policy for harassment, discrimination, or retaliation based on race, gender, age, religion, disability, sexual orientation, or any other protected characteristic. All incidents must be reported immediately to HR or management. Reports will be investigated promptly and confidentially. Violators will face disciplinary action up to and including termination."
+      }
+]
